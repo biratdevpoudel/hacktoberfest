@@ -7,12 +7,7 @@
     ],
     tech: ["javascript", "typescript"],
     about: "I'm sabin, a front-end developer from Pokhara, Nepal."
-  }
-]
-```
-
-```js
-[
+  },
   {
     name: "Birat Dev Poudel",
     social: [
