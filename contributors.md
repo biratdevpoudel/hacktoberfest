@@ -7,6 +7,14 @@
     ],
     tech: ["javascript", "typescript"],
     about: "I'm sabin, a front-end developer from Pokhara, Nepal."
+  },
+  {
+    name: "Birat Dev Poudel",
+    social: [
+      twitter: "https://twitter.com/sirgilmour"
+    ],
+    tech: ["javascript", "python"],
+    about: "I'm Birat, a front-end developer from Pokhara, Nepal."
   }
 ]
 ```
